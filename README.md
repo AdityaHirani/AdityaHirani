@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaHirani
-- 👀 I’m interested in programming, tech
+- 👀 I’m interested in programming and tech
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me
