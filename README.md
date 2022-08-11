@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and tech
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me
+- 📫 To reach me - reddit - https://www.reddit.com/user/siassis
 
 <!---
 AdityaHirani/AdityaHirani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
